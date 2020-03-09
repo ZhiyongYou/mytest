@@ -1,0 +1,1 @@
+g++ -g -mcmodel=medium -o read read.C `/cvmfs/lhaaso.ihep.ac.cn/anysw/slc6_ia64_gcc73/external/root/6.14.00/bin/root-config --cflags --libs` -g

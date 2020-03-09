@@ -1,0 +1,2 @@
+/afs/ihep.ac.cn/users/y/youzhiyong/test/roottest/treeArray/root/ES.30448.FULL.WFCTA01.20191123215827.060.cal.root
+/afs/ihep.ac.cn/users/y/youzhiyong/test/roottest/treeArray/root/ES.30448.FULL.WFCTA01.20191123220054.061.cal.root
